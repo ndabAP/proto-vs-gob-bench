@@ -1,0 +1,6 @@
+Protobuf vs Gob benchmarks
+
+BenchmarkGobWrite-8                  121           9679732 ns/op
+BenchmarkGobRead-8                    60          19264177 ns/op
+BenchmarkProtobufWrite-8              13          88254390 ns/op
+BenchmarkProtobufRead-8               26          46792472 ns/op
